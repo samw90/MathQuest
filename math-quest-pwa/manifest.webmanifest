@@ -1,0 +1,15 @@
+{
+  "name": "Math Quest",
+  "short_name": "Math Quest",
+  "description": "A friendly math adventure: quizzes, practice, speed rounds, quest maps and boss battles, aligned to Common Core.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf8ef",
+  "theme_color": "#fdf8ef",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
