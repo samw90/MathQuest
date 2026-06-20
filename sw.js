@@ -1,5 +1,5 @@
 // Bump CACHE (v1 -> v2 ...) whenever you upload a new index.html so devices refresh.
-const CACHE = 'mathquest-v4';
+const CACHE = 'mathquest-v6';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon-32.png'
