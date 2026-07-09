@@ -2,7 +2,7 @@
 // v7: the app shell (index.html / navigations) is now NETWORK-FIRST with a 3s
 // timeout, so new uploads are picked up automatically when online, while the
 // app still loads instantly from cache offline. Other assets stay cache-first.
-const CACHE = 'mathquest-v8-1';
+const CACHE = 'mathquest-v8-2';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon-32.png'
